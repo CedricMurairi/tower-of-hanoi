@@ -1,6 +1,6 @@
 package Tower;
 
-// Authors: Cedric Murairi, Mthabisi Ndlovu
+// Authors: Cedric Murairi
 // This code simulate the tower of Hanoi problem and solution
 
 // Take an example for 2 disks :
